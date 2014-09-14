@@ -2,7 +2,7 @@ package javaExamJune01;
 
 import java.util.Scanner;
 
-public class _01_StuckNumbersChange {
+public class _01_StuckNumbersSecondChange {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
